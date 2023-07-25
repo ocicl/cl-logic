@@ -1,0 +1,10 @@
+* cl-logic
+
+Boolean algebra package for common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jollheef/cl-logic.git   |
+| commit  | 0b3220e  |
+| systems | cl-logic |
+|---------+-------------------------------------------|
+
