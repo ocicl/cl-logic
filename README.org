@@ -8,3 +8,4 @@ Boolean algebra package for common lisp
 | systems | cl-logic |
 |---------+-------------------------------------------|
 
+ 
